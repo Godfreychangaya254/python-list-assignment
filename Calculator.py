@@ -1,3 +1,4 @@
+
 # 1. Create an empty list called my_list
 my_list = []
 
@@ -10,7 +11,7 @@ my_list.append(40)
 # 3. Insert the value 15 at the second position in the list
 my_list.insert(1, 15)  # index starts at 0
 
-# 4. Extend my_list with another list: [50, 60, 70]
+# 4. Extend my_list awith another list: [50, 60, 70]
 my_list.extend([50, 60, 70])
 
 # 5. Remove the last element from my_list
@@ -25,4 +26,3 @@ print("Index of 30:", index_of_30)
 
 # Print the final list for verification
 print("Final my_list:", my_list)
-
